@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Rebecca/Desktop/TELCO%20PROJECT/mlruns/100975171294771668/fadc822de8da437ca45d27b491a6e948/artifacts
+end_time: 1758732728538
+entry_point_name: ''
+experiment_id: '100975171294771668'
+lifecycle_stage: active
+run_id: fadc822de8da437ca45d27b491a6e948
+run_name: suave-snake-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758732728362
+status: 4
+tags: []
+user_id: Rebecca
