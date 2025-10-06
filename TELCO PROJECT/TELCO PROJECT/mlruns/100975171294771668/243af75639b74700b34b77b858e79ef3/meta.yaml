@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Rebecca/Desktop/TELCO%20PROJECT/mlruns/100975171294771668/243af75639b74700b34b77b858e79ef3/artifacts
+end_time: 1758731091138
+entry_point_name: ''
+experiment_id: '100975171294771668'
+lifecycle_stage: active
+run_id: 243af75639b74700b34b77b858e79ef3
+run_name: efficient-gnu-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758731091038
+status: 4
+tags: []
+user_id: Rebecca
